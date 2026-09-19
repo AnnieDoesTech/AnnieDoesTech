@@ -15,7 +15,9 @@ I'm from Illinois in the US, currently in the Central Standard Time Zone 🌎. I
 
 🌱 I’m currently learning
 ----------------------------------------------------
-Coursera > UofM Python 3 () , IBM Data Science (), 
+- Coursera
+  - UofM Python 3 ()
+  - IBM Data Science ()
 <!--
 **AnnieDoesTech/AnnieDoesTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
